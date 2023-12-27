@@ -1,4 +1,4 @@
-# file-updates-in-Python
+# File Updates in Python
 
 <h2>Description</h2>
 Our company is trying to remove old IP addresses from our allowed list. In this project I will create a algorithm that can remove unwanted objects from a list. The "allow_list.txt" file identifies these IP addresses. A separate remove list identifies IP addresses that should no longer have access to this content. In this project I show how to remove the unwanted IP addresses.
